@@ -1,4 +1,4 @@
-# Examples
+# Samples
 
 ## Code Annotation Examples
 

@@ -1,5 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Stefan Agapie
+site_description: Stefan Agapie's Resume, along with Python and Docker tutorials and notes
+site_url: https://stefanagapie.github.io/
 theme:
   name: material
   features:
@@ -30,6 +32,8 @@ theme:
         name: Switch to dark mode
       primary: teal
       accent: purple
+  logo: img/user-secret-solid.svg
+  favicon: img/user-secret-solid.svg
 
 extra:
   social:
